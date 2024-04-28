@@ -1,0 +1,17 @@
+.ui.grid {
+    margin: 0;
+  }
+  
+  .ui.card {
+    font-size: 14px;
+  }
+  
+  .ui.fixed.table {
+    white-space: nowrap;
+  }
+.card1{
+   
+    background: rgb(38, 27, 27);
+    color: #e3e5e7;
+    
+  }
